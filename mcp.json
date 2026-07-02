@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "search": {
+      "command": "npx",
+      "args": ["-y", "@acme/mcp-search@latest"]
+    },
+    "remote-tools": {
+      "type": "http",
+      "url": "https://tools.example.com/mcp"
+    }
+  }
+}
