@@ -1,0 +1,10 @@
+{
+  // VS Code style MCP configuration with a pinned package (JSONC comment on purpose)
+  "servers": {
+    "docs-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@acme/mcp-docs@1.4.2"]
+    },
+  }
+}
