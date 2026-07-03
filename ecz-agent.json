@@ -1,0 +1,6 @@
+{
+  "schema_version": "1",
+  "agent": { "name": "proof-agent" },
+  "operator": { "ecz_id": "ECZ-2026-PROOF-0002", "resolver_url": "https://resolver.ecocitizenz.org/proof/ECZ-2026-PROOF-0002" },
+  "subject": { "repository": "https://github.com/Ecocitizenz/eczid-check-proof-public" }
+}
