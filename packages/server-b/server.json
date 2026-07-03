@@ -1,0 +1,7 @@
+{
+  "name": "io.github.acme/server-b",
+  "version": "2.1.0",
+  "packages": [
+    { "registry_type": "npm", "identifier": "@acme/server-b", "version": "2.0.0" }
+  ]
+}
