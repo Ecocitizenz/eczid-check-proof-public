@@ -1,10 +1,15 @@
 {
-  // VS Code style MCP configuration with a pinned package (JSONC comment on purpose)
+  // VS Code style MCP configuration - every server invocation pins an exact version
   "servers": {
     "docs-server": {
       "type": "stdio",
       "command": "npx",
       "args": ["-y", "@acme/mcp-docs@1.4.2"]
     },
+    "search-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@acme/mcp-search@2.1.0"]
+    }
   }
 }
