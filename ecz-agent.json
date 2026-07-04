@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "agent_name": "eczid-proof-agent",
+  "agent_type": "mcp_agent",
+  "operator_ecz_id": "ECZ-GB-A1B2C3",
+  "agent_credential_id": "ECZ-GB-A1B2C3::AGENT_CREDENTIAL-9F8E7D",
+  "resolver_url": "https://resolver.ecocitizenz.org/agent/ECZ-GB-A1B2C3::AGENT_CREDENTIAL-9F8E7D",
+  "authority_scope": { "actions": ["read:repository"], "targets": ["github.com/Ecocitizenz/eczid-check-proof-public"] },
+  "api_passport_refs": ["ECZ-GB-A1B2C3::API_PASSPORT-1A2B3C"],
+  "model_passport_refs": [],
+  "dataset_passport_refs": [],
+  "software_supply_chain_refs": [],
+  "manifest_hash": "sha256:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "issued_at": "2026-01-01T00:00:00Z",
+  "last_updated_at": "2026-01-01T00:00:00Z",
+  "signature_set": [ { "alg": "Ed25519", "key_id": "proof-key", "signature": "c2lnbmF0dXJlLXBsYWNlaG9sZGVy" } ]
+}
