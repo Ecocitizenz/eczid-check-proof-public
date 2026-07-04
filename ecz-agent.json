@@ -5,7 +5,7 @@
   "operator_ecz_id": "ECZ-GB-A1B2C3",
   "agent_credential_id": "ECZ-GB-A1B2C3::AGENT_CREDENTIAL-9F8E7D",
   "resolver_url": "https://resolver.ecocitizenz.org/agent/ECZ-GB-A1B2C3::AGENT_CREDENTIAL-9F8E7D",
-  "authority_scope": { "actions": ["read:repository"], "targets": ["github.com/Ecocitizenz/eczid-check-proof-public"] },
+  "authority_scope": { "actions": ["read:repository"], "targets": ["github.com/Ecocitizenz/eczid-check-proof-public"], "policy_refs": ["https://ecocitizenz.org/agent-policy"] },
   "api_passport_refs": ["ECZ-US-ZZZZZZ::API_PASSPORT-1A2B3C"],
   "model_passport_refs": [],
   "dataset_passport_refs": [],
